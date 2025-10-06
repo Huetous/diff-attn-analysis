@@ -1,7 +1,7 @@
 # Годовой Проект
 Итоговая тема: 
 ```
-Explainable AI for Diffusion Models (Объяснимый ИИ в диффузионных моделях)
+Explainable AI in Generative Diffusion Models (Объяснимый ИИ в моделях генеративной диффузии)
 ```
 Описание:
 ```
